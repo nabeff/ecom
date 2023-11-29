@@ -5,7 +5,7 @@
             <img src="./assets//Banner1.png" alt="Banner1">
         </div>
         <div class="item">
-            <img src="./assets/Banner2.png" alt="Banner2">
+            <img src="./assets/Banner4.jpg" alt="Banner2">
         </div>
         <div class="item">
             <img src="./assets/Banner1.png" alt="Banner1">
