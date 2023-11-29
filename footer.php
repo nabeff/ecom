@@ -1,11 +1,11 @@
 </main>
 
-<footer id="footer" class="bg-dark text-white py-5">
+<footer id="footer" class=" text-white py-5 " style="background-color: #0F0F0F;">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-12">
                 <h4 class="font-rubik font-size-20">Mobile Shope</h4>
-                <p class="font-size-14 font-rale text-white-50">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, deserunt.</p>
+                <p class="font-size-14 font-rale text-white-50">We offer credibility and safety, and ofc reassurance</p>
             </div>
             <div class="col-lg-4 col-12">
                 <h4 class="font-rubik font-size-20">News letter</h4>

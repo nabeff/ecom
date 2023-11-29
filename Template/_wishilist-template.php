@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 <section id="cart" class="py-3 mb-5">
     <div class="container-fluid w-75">
-        <h5 class="font-baloo font-size-20">wishlist</h5>
+        <h5 class="font-baloo font-size-20">Wishlist </h5>
 
         <!--  shopping cart items   -->
         <div class="row">

@@ -13,9 +13,9 @@ $(document).ready(function () {
         items: 1,
       },
       600: {
-        items: 3,
+        items: 4,
       },
-      1000: {
+      900: {
         items: 5,
       },
     },
@@ -37,7 +37,7 @@ $(document).ready(function () {
     dots: true,
     responsive: {
       0: {
-        items: 1,
+        items: 2,
       },
       600: {
         items: 3,
